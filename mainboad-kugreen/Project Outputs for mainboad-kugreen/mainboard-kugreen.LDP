@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Work\git\ku-green-electronics\mainboad-kugreen\mainboard-kugreen.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=mainboard-kugreen-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=mainboard-kugreen-squareholes.txt|DrillLayers=gtl,gbl
